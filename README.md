@@ -1,4 +1,4 @@
-# Data-Duplication-Removal-Using-Machine-learning
+# Data Duplication Removal Using Machine learning
 Data Duplication Removal Using Machine learning Code, Document And Video Tutorial
 
 ![Data Duplication](https://github.com/user-attachments/assets/82614e7e-4391-45e9-a7e2-c3e1aecf7eaa)
